@@ -50,9 +50,9 @@ if [ "$1" = "run" ]; then
     # ip netns exec t1 ip addr add fec0:1000::11/32 dev eth11
     # ip netns exec t2 ip addr add fec0:2000::10/32 dev eth20
     # Run FRRs
-    # for ((i=0; i<5; i++)); do
-    #     docker exec -i t"${i}" /usr/lib/frr/frrinit.sh start
-    # done;
+    for ((i=0; i<5; i++)); do
+        docker exec -i t"${i}" /usr/lib/frr/frrinit.sh start
+    done;
 elif [ "$1" = "rm" ]; then
     # Delete docker containers
     for ((i=0; i<5; i++)); do
