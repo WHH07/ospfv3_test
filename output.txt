@@ -1,0 +1,20 @@
+09:08:37.373005 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+09:08:37.440997 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+09:08:47.361974 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:08:57.362081 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:09:07.364622 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:09:17.364496 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:09:17.372947 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+09:09:17.573029 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+09:09:27.366559 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:09:37.367172 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:09:47.367202 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:09:57.367207 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:10:07.367201 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:10:17.367200 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:10:27.367252 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:10:37.367246 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:10:47.369389 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:10:57.371360 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+09:11:07.371365 IP6 fe80::30a7:a8ff:fe0b:690c > ff02::5: OSPFv3, Hello, length 36
+

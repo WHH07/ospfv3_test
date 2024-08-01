@@ -12,7 +12,7 @@ if [ "$1" = "run" ]; then
             --sysctl net.ipv6.conf.default.proxy_ndp=1 \
             -v /etc/localtime:/etc/localtime:ro \
             -v ${WORK_DIR}/t${i}/:/etc/frr/ \
-            xboo35/frr_9.1:v0
+	    ponedo/frr-ubuntu20:tiny bash
         container_pid=$(docker inspect -f '{{.State.Pid}}' t${i})
         ln -s /proc/$container_pid/ns/net /var/run/netns/t${i}
         # docker exec -i t$i ip6tables -A INPUT -d ff02::16 -j DROP
@@ -50,9 +50,9 @@ if [ "$1" = "run" ]; then
     # ip netns exec t1 ip addr add fec0:1000::11/32 dev eth11
     # ip netns exec t2 ip addr add fec0:2000::10/32 dev eth20
     # Run FRRs
-    for ((i=0; i<5; i++)); do
-        docker exec -i t"${i}" /usr/lib/frr/frrinit.sh start
-    done;
+    #for ((i=0; i<5; i++)); do
+    #    docker exec -i t"${i}" /usr/lib/frr/frrinit.sh start
+    #done;
 elif [ "$1" = "rm" ]; then
     # Delete docker containers
     for ((i=0; i<5; i++)); do

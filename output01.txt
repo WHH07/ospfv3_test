@@ -1,0 +1,63 @@
+02:42:39.397023 IP6 fe80::28fc:8eff:fe79:4145 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+02:42:39.640996 IP6 fe80::28fc:8eff:fe79:4145 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+02:42:46.609055 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+02:42:47.009000 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+02:42:49.384455 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 36
+02:42:56.599149 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:42:59.384466 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:43:06.599147 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:43:16.599143 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:43:19.383031 IP6 fe80::28fc:8eff:fe79:4145 > ff02::1:ff5f:c9ba: ICMP6, neighbor solicitation, who has fe80::8f:a3ff:fe5f:c9ba, length 32
+02:43:19.383170 IP6 fe80::8f:a3ff:fe5f:c9ba > fe80::28fc:8eff:fe79:4145: ICMP6, neighbor advertisement, tgt is fe80::8f:a3ff:fe5f:c9ba, length 32
+02:43:19.383253 IP6 fe80::28fc:8eff:fe79:4145 > fe80::8f:a3ff:fe5f:c9ba: OSPFv3, Database Description, length 28
+02:43:19.384477 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:43:24.382967 IP6 fe80::28fc:8eff:fe79:4145 > fe80::8f:a3ff:fe5f:c9ba: OSPFv3, Database Description, length 28
+02:43:24.384997 IP6 fe80::8f:a3ff:fe5f:c9ba > fe80::28fc:8eff:fe79:4145: ICMP6, neighbor solicitation, who has fe80::28fc:8eff:fe79:4145, length 32
+02:43:24.385127 IP6 fe80::28fc:8eff:fe79:4145 > fe80::8f:a3ff:fe5f:c9ba: ICMP6, neighbor advertisement, tgt is fe80::28fc:8eff:fe79:4145, length 24
+02:43:26.597460 IP6 fe80::8f:a3ff:fe5f:c9ba > fe80::28fc:8eff:fe79:4145: OSPFv3, Database Description, length 28
+02:43:26.597878 IP6 fe80::28fc:8eff:fe79:4145 > fe80::8f:a3ff:fe5f:c9ba: OSPFv3, Database Description, length 88
+02:43:26.597971 IP6 fe80::8f:a3ff:fe5f:c9ba > fe80::28fc:8eff:fe79:4145: OSPFv3, LS-Request, length 52
+02:43:26.597981 IP6 fe80::8f:a3ff:fe5f:c9ba > fe80::28fc:8eff:fe79:4145: OSPFv3, Database Description, length 88
+02:43:26.598067 IP6 fe80::28fc:8eff:fe79:4145 > fe80::8f:a3ff:fe5f:c9ba: OSPFv3, LS-Update, length 144
+02:43:26.598076 IP6 fe80::28fc:8eff:fe79:4145 > fe80::8f:a3ff:fe5f:c9ba: OSPFv3, LS-Request, length 52
+02:43:26.598080 IP6 fe80::28fc:8eff:fe79:4145 > fe80::8f:a3ff:fe5f:c9ba: OSPFv3, Database Description, length 28
+02:43:26.598264 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, LS-Update, length 136
+02:43:26.598288 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, LS-Update, length 180
+02:43:26.599080 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:43:26.599206 IP6 fe80::28fc:8eff:fe79:4145 > ff02::6: OSPFv3, LS-Update, length 100
+02:43:26.608984 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+02:43:26.612977 IP6 fe80::28fc:8eff:fe79:4145 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+02:43:26.745032 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+02:43:26.944954 IP6 fe80::28fc:8eff:fe79:4145 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+02:43:29.384755 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:43:29.598412 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, LS-Ack, length 76
+02:43:29.598963 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, LS-Ack, length 116
+02:43:31.598228 IP6 fe80::8f:a3ff:fe5f:c9ba > fe80::28fc:8eff:fe79:4145: OSPFv3, LS-Update, length 100
+02:43:31.599121 IP6 fe80::28fc:8eff:fe79:4145 > fe80::8f:a3ff:fe5f:c9ba: OSPFv3, LS-Update, length 100
+02:43:33.779553 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, LS-Update, length 172
+02:43:33.779651 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, LS-Update, length 116
+02:43:34.598662 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, LS-Ack, length 136
+02:43:34.599360 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, LS-Ack, length 56
+02:44:06.602055 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:44:09.385219 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:44:16.602065 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:44:19.385191 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:44:26.602070 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:44:29.385204 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:44:36.602180 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:44:39.385211 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:44:46.602183 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:44:49.385227 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:44:56.604384 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:44:59.385279 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:45:06.606396 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:45:09.385265 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:45:16.609342 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:45:19.385289 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:45:26.611284 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:45:29.385710 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:45:36.613300 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:45:39.385713 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+02:45:46.615308 IP6 fe80::8f:a3ff:fe5f:c9ba > ff02::5: OSPFv3, Hello, length 40
+02:45:49.386074 IP6 fe80::28fc:8eff:fe79:4145 > ff02::5: OSPFv3, Hello, length 40
+
